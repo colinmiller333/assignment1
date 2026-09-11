@@ -10,6 +10,7 @@ This scene is a maze with a character at the starting point and only one possibl
 
 ## Scene 3 – VR 360
 There is a 360° view from a lakeside area looking out at the sun.
+
 <img width="380" height="212" alt="image" src="https://github.com/user-attachments/assets/cfe91f22-5192-47d9-b844-74c9f54fe56f" />
 <img width="571" height="228" alt="image" src="https://github.com/user-attachments/assets/b2c7f684-eae9-4974-adbc-acfc57ef8c46" />
 <img width="567" height="222" alt="image" src="https://github.com/user-attachments/assets/89ea6067-350c-4115-aafb-469c90cca13a" />
